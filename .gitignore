@@ -1,3 +1,22 @@
+# python aux files
+__pycache__
 *.pyc
+
+# audio effects
+*.wav
+
+# vim aux files
+*.swp
+
+# eclipse aux files
+.project
+.settings
+
+# pycharm aux files
 .idea
-.vscode
+
+# vs code aux files
+.vscode/
+
+# Apple macOS aux file
+.DS_Store
